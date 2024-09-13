@@ -4,8 +4,8 @@ bash
 dotnet build
 
 2. Now, you can either:
- Start the server using the launch configuration.
- Start multiple clients using the launch configuration for the client.
+Start the server using the launch configuration.
+Start multiple clients using the launch configuration for the client.
 
 If you prefer using the terminal:
 Run the server:
